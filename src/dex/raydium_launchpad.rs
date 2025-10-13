@@ -37,8 +37,6 @@ lazy_static::lazy_static! {
     static ref RAYDIUM_PLATFORM_CONFIG: Pubkey = Pubkey::from_str("FfYek5vEz23cMkWsdJwG2oa6EphsvXSHrGpdALN4g6W1").unwrap();
     static ref EVENT_AUTHORITY: Pubkey = Pubkey::from_str("2DPAtwB8L12vrMRExbLuyGnC7n2J5LNoZQSejeQGpwkr").unwrap();
     static ref SOL_MINT: Pubkey = Pubkey::from_str("So11111111111111111111111111111111111111112").unwrap();
-    static ref BUY_DISCRIMINATOR: [u8; 8] = [250, 234, 13, 123, 213, 156, 19, 236]; //buy_exact_in discriminator
-    static ref SELL_DISCRIMINATOR: [u8; 8] = [149, 39, 222, 155, 211, 124, 152, 26]; //sell_exact_in discriminator
 }
 
 const TEN_THOUSAND: u64 = 10000;

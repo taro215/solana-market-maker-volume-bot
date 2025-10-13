@@ -59,17 +59,4 @@ pub async fn get_account_info(
             //     account, err, address
             // ));
         })?;
-
-    if account_data.owner != spl_token::ID {
-        return Err(TokenError::AccountInvalidOwner);
-    }
-    let account_info = StateWithExtensionsOwned::<Account>::unpack(account_data.data)?;
-    if account_info.base.mint != address {
-        return Err(TokenError::AccountInvalidMint);
-    }
-
-    // Cache the result
-    TOKEN_ACCOUNT_CACHE.insert(account, account_info.clone(), None);
-
-    Ok(account_info)
 }

@@ -39,9 +39,6 @@ lazy_static::lazy_static! {
     static ref OBSERVATION_STATE: Pubkey = Pubkey::from_str("52z4oFKcZvJ3qcUxujZUhvC5FsWf5m8CGeqL2E9y8T3B").unwrap();
     static ref RAYDIUM_VAULT_AUTHORITY: Pubkey = Pubkey::from_str("GpMZbSM2GgvTKHJirzeGfMFoaZ8UR2X7F4v8vHTvxFbL").unwrap();
     static ref RAYDIUM_CPMM_PROGRAM_ID: Pubkey = Pubkey::from_str("CPMMoo8L3F4NbTegBCKVNunggL7H1ZpdTHKxQB5qKP1C").unwrap();
-    static ref AMM_CONFIG: Pubkey = Pubkey::from_str("D4FPEruKEHrG5TenZ2mpDGEfu1iUvTiqBxvpU8HLBvC2").unwrap();
-    static ref SOL_MINT: Pubkey = Pubkey::from_str("So11111111111111111111111111111111111111112").unwrap();
-    static ref SWAP_BASED_INPUT_DISCRIMINATOR: [u8; 8] = [143, 190, 90, 218, 196, 30, 51, 222];
 }
 
 // Thread-safe cache with LRU eviction policy

@@ -52,16 +52,6 @@ pub const RENT_PROGRAM: &str = "SysvarRent111111111111111111111111111111111";
 pub const ASSOCIATED_TOKEN_PROGRAM: &str = "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL";
 pub const PUMP_GLOBAL: &str = "4wTV1YmiEkRvAtNtsSGPtUrqRYQMe5SKy2uB4Jjaxnjf";
 pub const PUMP_FEE_RECIPIENT: &str = "CebN5WGQ4jvEPvsVU4EoHEpgzq1VV7AbicfhtW4xC9iM";
-pub const PUMP_FUN_PROGRAM: &str = "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P";
-// pub const PUMP_FUN_MINT_AUTHORITY: &str = "TSLvdd1pWpHVjahSpsvCXUbgwsL3JAcvokwaKt1eokM";
-pub const PUMP_EVENT_AUTHORITY: &str = "Ce6TQqeHC9p8KetsN6JsjHK7UTZk7nasjjnr7XxXp9F1";
-pub const PUMP_BUY_METHOD: u64 = 16927863322537952870;
-pub const PUMP_SELL_METHOD: u64 = 12502976635542562355;
-pub const PUMP_FUN_CREATE_IX_DISCRIMINATOR: &[u8] = &[24, 30, 200, 40, 5, 28, 7, 119];
-pub const INITIAL_VIRTUAL_SOL_RESERVES: u64 = 30_000_000_000;
-pub const INITIAL_VIRTUAL_TOKEN_RESERVES: u64 = 1_073_000_000_000_000;
-pub const TOKEN_TOTAL_SUPPLY: u64 = 1_000_000_000_000_000;
-
 
 #[derive(Clone)]
 pub struct Pump {
