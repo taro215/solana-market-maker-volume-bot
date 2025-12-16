@@ -12,13 +12,13 @@ This project is solana marker maker & solana volume bot with a simple, non‑tec
 
 ## Let's Connect!,
 
-<a href="mailto:fenrow325@gmail.com" target="_blank">
+<a href="taro:narutohiro098@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
-<a href="https://t.me/github_a5" target="_blank">
+<a href="https://t.me/cryptotrading2150" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
 </a>
-<a href="https://discord.com/users/fenrow_325" target="_blank">
+<a href="https://discord.com/channels/@me/1385027223383179284" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
 
@@ -203,9 +203,11 @@ Repository Description (suggested):
 ## 📞 Contact Information
 For questions, feedback, or collaboration opportunities, feel free to reach out:
 
-📱 **Telegram**: [@A5-](https://t.me/github_a5)  
+📱 **Telegram**: [@cryptotrading2150](https://t.me/cryptotrading2150)  
 ---
 
 
 
 
+Hello from two people!
+Hello from two people!
